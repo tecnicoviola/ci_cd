@@ -1,1 +1,1 @@
-export { db, contract } from './prisma/db.js';
+export { db, contract, connectDb } from "./prisma/db.js";
